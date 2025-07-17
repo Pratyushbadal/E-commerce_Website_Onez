@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+body {
+  width: 100vw;
+  height: auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: hidden;
+}
+
+.main {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding-top: 50px;
+  background-color: #f4f4f4;
+  color: #333;
+  display: flex;
+}
+
+h1 {
+  padding: 40px 0px 0px 35px;
+}
+
+.warranty-sidebar {
+  width: 280px;
+  background-color: #f2f2f2;
+  padding: 30px 20px;
+  border-left: 4px solid #1e90ff;
+  margin: 40px 0 0 40px;
+  height: fit-content;
+}
+
+.warranty-sidebar h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.warranty-header {
+  padding: 30px 0 0 50px;
+}
+
+.warranty-container {
+  max-width: 800px;
+  margin: 40px auto 40px 0;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.warranty-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.warranty-section {
+  margin-bottom: 30px;
+}
+
+.warranty-section h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.warranty-section ul {
+  padding-left: 20px;
+}
+
+.warranty-section li {
+  margin-bottom: 8px;
+}
