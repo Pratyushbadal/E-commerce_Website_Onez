@@ -135,7 +135,12 @@ E-commerce_Website_Onez-main/
 
 ## Authors
 
-- Developed by Team Onez (Add names here if applicable)
+- Developed by:
+    - Pratyush Badal
+    - Madan Shrestha
+    - Dikshant Timsina
+    - Abhinav Paudyal
+    - Rijan Bajracharya
 
 ## License
 
